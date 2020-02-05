@@ -8,21 +8,21 @@
 ## Course 1. Neural Networks and Deep Learning
 * Week1 - Introduction to deep learning
 * Week2 - Neural Networks Basics
-Week3 - Shallow neural networks
-Week4 - Deep Neural Networks
+* Week3 - Shallow neural networks
+* Week4 - Deep Neural Networks
 ## Course 2. Improving Deep Neural Networks Hyperparameter tuning, Regularization and Optimization
-1. Week1 - Practical aspects of Deep Learning
+* Week1 - Practical aspects of Deep Learning
          - Setting up your Machine Learning Application
          - Regularizing your neural network
          - Setting up your optimization problem
-2. Week2 - Optimization algorithms
-3. Week3 - Hyperparameter tuning, Batch Normalization and Programming Frameworks
+* Week2 - Optimization algorithms
+* Week3 - Hyperparameter tuning, Batch Normalization and Programming Frameworks
 
 ## Course 3. Structuring Machine Learning Projects
-1. Week1 - Introduction to ML Strategy
-         - Setting up your goal
-         - Comparing to human-level performance
-2. Week2 - ML Strategy (2)
+* Week1 - Introduction to ML Strategy
+        - Setting up your goal
+        - Comparing to human-level performance
+* Week2 - ML Strategy (2)
          - Error Analysis
          - Mismatched training and dev/test set
          - Learning from multiple tasks
