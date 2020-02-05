@@ -11,8 +11,9 @@
 * Week3 - Shallow neural networks
 * Week4 - Deep Neural Networks
 ## Course 2. Improving Deep Neural Networks Hyperparameter tuning, Regularization and Optimization
-* Week1 - Practical aspects of Deep Learning
-         - Setting up your Machine Learning Application
+* Week1 
+   ** Practical aspects of Deep Learning
+   ** Setting up your Machine Learning Application
          - Regularizing your neural network
          - Setting up your optimization problem
 * Week2 - Optimization algorithms
