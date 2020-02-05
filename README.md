@@ -6,7 +6,7 @@
     * [***Convolutional Neural Networks***](https://www.coursera.org/learn/convolutional-neural-networks)
     * [***Sequence Models***](https://www.coursera.org/learn/nlp-sequence-models)
 ## Course 1. Neural Networks and Deep Learning
-* Week1 - Introduction to deep learning
+* Week1 - Introduction to deep learning [x]
 * Week2 - Neural Networks Basics
 * Week3 - Shallow neural networks
 * Week4 - Deep Neural Networks
